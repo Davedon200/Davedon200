@@ -19,10 +19,16 @@ I have always been drawn to the power and potential of open source technology, a
 <table>
 	<tbody width="100%">
 	<tr>
-			<th>Reasa</th>	
-			<th>MuleEx</th>	
-			<th>Vulte</th>
+			<th>Mich</th>	
 		</tr>
+		<tr>
+			<td>
+				<img src="https://user-images.githubusercontent.com/32166619/211872067-720076e7-8a2d-403a-aa85-49c6a1a9b9fd.gif" alt="3D Solar System"></img>
+			</td>
+		<tr></tr>
+			<td>
+				🔗 <a href="https://x.com/daveeilish/status/1891293267586687335?s=46">Tweet</a>
+			</td>
 </table>
 
 Here are some things about me to get you started:
