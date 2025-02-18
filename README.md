@@ -20,25 +20,18 @@ I have always been drawn to the power and potential of open source technology, a
 	<tbody width="100%">
 	<tr>
 			<th>Mich</th>	
+			<th>MuleEx</th>	
 		</tr>
 		<tr>
 			<td>
 				<img src="https://github.com/user-attachments/assets/2454c6dd-3c80-4e5f-b011-71ea0a5f424d"></img>
 				<img src="https://github.com/user-attachments/assets/cb000524-5162-4bfe-9a2f-df5a2b2736bb"></img>
 			</td>
-		<tr></tr>
-			<td>
-				🔗 <a href="https://x.com/daveeilish/status/1891293267586687335?s=46">Tweet</a>
-			</td>
-</table>
-	<tbody width="100%">
-	<tr>
-			<th>MuleEx</th>	
-		</tr>
-		<tr>
 			<td>
 				<img src="https://github.com/user-attachments/assets/7a83efe4-e890-4fdd-90df-6e14e65b00c1"></img>
 			</td>
+   </tr>
+
 		
 Here are some things about me to get you started:
 
