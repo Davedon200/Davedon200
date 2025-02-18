@@ -19,16 +19,15 @@ I have always been drawn to the power and potential of open source technology, a
 <table>
 	<tbody width="100%">
 	<tr>
-			<th>Mich</th>	
+			<th>3D Model</th>	
 			<th>MuleEx</th>	
 		</tr>
 		<tr>
 			<td>
-				<img src="https://github.com/user-attachments/assets/2454c6dd-3c80-4e5f-b011-71ea0a5f424d"></img>
-				<img src="https://github.com/user-attachments/assets/cb000524-5162-4bfe-9a2f-df5a2b2736bb"></img>
+				<img src="https://github.com/user-attachments/assets/4a59ee34-cf56-4797-8884-e542240c93f9"></img>
 			</td>
 			<td>
-				<img src="https://github.com/user-attachments/assets/7a83efe4-e890-4fdd-90df-6e14e65b00c1"></img>
+				<img src="https://github.com/user-attachments/assets/cb000524-5162-4bfe-9a2f-df5a2b2736bb"></img>
 			</td>
    		</tr>
 		<tr>
@@ -36,7 +35,21 @@ I have always been drawn to the power and potential of open source technology, a
 				🔗 <a href="https://x.com/daveeilish/status/1891293267586687335?s=46">Tweet</a>
 			</td>
 			<td>
-				🔗 <>Tweet</a>
+				🔗 <a href="https://x.com/daveeilish/status/1891821883017855113?s=46">Tweet</a>
+			</td>
+		</tr>
+  		<tr>
+			<th>Mich</th>	
+		</tr>
+  		<tr>
+			<td>
+				<img src="https://github.com/user-attachments/assets/2454c6dd-3c80-4e5f-b011-71ea0a5f424d"></img>
+				<img src="https://github.com/user-attachments/assets/cb000524-5162-4bfe-9a2f-df5a2b2736bb"></img>
+			</td>
+   		</tr>
+		<tr>
+			<td>
+				🔗 <a href="https://x.com/daveeilish/status/1891293267586687335?s=46">Tweet</a>
 			</td>
 		</tr>
 
