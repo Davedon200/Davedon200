@@ -24,8 +24,6 @@ I have always been drawn to the power and potential of open source technology, a
 		<tr>
 			<td>
 				<img src="https://github.com/user-attachments/assets/2454c6dd-3c80-4e5f-b011-71ea0a5f424d"></img>
-			</td>
-			<td>
 				<img src="https://github.com/user-attachments/assets/2454c6dd-3c80-4e5f-b011-71ea0a5f424d"></img>
 			</td>
 		<tr></tr>
