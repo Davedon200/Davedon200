@@ -16,18 +16,18 @@ I have always been drawn to the power and potential of open source technology, a
 ---
 ## Animation and UI Challenges
 
-<table>
-	<tbody width="100%">
-	<tr>
+<table width="100%" border="1">
+	<tbody>
+		<tr>
 			<th>3D Model</th>	
 			<th>MuleEx</th>	
 		</tr>
 		<tr>
 			<td>
-				<img src="https://github.com/user-attachments/assets/4a59ee34-cf56-4797-8884-e542240c93f9"></img>
+				<img src="https://github.com/user-attachments/assets/4a59ee34-cf56-4797-8884-e542240c93f9" width="200" alt="3D Model Image">
 			</td>
 			<td>
-				<img src="https://github.com/user-attachments/assets/cb000524-5162-4bfe-9a2f-df5a2b2736bb"></img>
+				<img src="https://github.com/user-attachments/assets/cb000524-5162-4bfe-9a2f-df5a2b2736bb" width="200" alt="MuleEx Image">
 			</td>
    		</tr>
 		<tr>
@@ -39,19 +39,22 @@ I have always been drawn to the power and potential of open source technology, a
 			</td>
 		</tr>
   		<tr>
-			<th>Mich</th>	
+			<th colspan="2">Mich</th>	
 		</tr>
   		<tr>
-			<td>
-				<img src="https://github.com/user-attachments/assets/2454c6dd-3c80-4e5f-b011-71ea0a5f424d"></img>
-				<img src="https://github.com/user-attachments/assets/cb000524-5162-4bfe-9a2f-df5a2b2736bb"></img>
+			<td colspan="2">
+				<img src="https://github.com/user-attachments/assets/2454c6dd-3c80-4e5f-b011-71ea0a5f424d" width="200" alt="Mich Image 1">
+				<img src="https://github.com/user-attachments/assets/cb000524-5162-4bfe-9a2f-df5a2b2736bb" width="200" alt="Mich Image 2">
 			</td>
    		</tr>
 		<tr>
-			<td>
+			<td colspan="2">
 				🔗 <a href="https://x.com/daveeilish/status/1891293267586687335?s=46">Tweet</a>
 			</td>
 		</tr>
+	</tbody>
+</table>
+
 
 		
 Here are some things about me to get you started:
