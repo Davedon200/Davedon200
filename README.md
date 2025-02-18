@@ -23,7 +23,7 @@ I have always been drawn to the power and potential of open source technology, a
 		</tr>
 		<tr>
 			<td>
-				<img src="https://user-images.githubusercontent.com/32166619/211872067-720076e7-8a2d-403a-aa85-49c6a1a9b9fd.gif" alt="3D Solar System"></img>
+				<img src="https://github.com/user-attachments/assets/2454c6dd-3c80-4e5f-b011-71ea0a5f424d"></img>
 			</td>
 		<tr></tr>
 			<td>
