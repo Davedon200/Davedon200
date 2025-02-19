@@ -14,38 +14,67 @@ I have always been drawn to the power and potential of open source technology, a
 ---
 ## Animation and UI Challenges
 
-<table width="100%" border="1">
-	<tbody>
-		<tr>
-			<th>3D Model</th>	
-			<th>MuleEx</th>	
-			<th>Mich</th>	
-		</tr>
-		<tr>
-			<td>
-				<img src="https://github.com/user-attachments/assets/4a59ee34-cf56-4797-8884-e542240c93f9" width="200" alt="3D Model Image">
-			</td>
-			<td>
-				<img src="https://github.com/user-attachments/assets/45a5aa7b-c8bd-493c-ae53-87b8ae713951" width="200" alt="MuleEx Image">
-			</td>
-			<td>
-				<img src="https://github.com/user-attachments/assets/2454c6dd-3c80-4e5f-b011-71ea0a5f424d" width="200" alt="Mich Image 1">
-				<img src="https://github.com/user-attachments/assets/cb000524-5162-4bfe-9a2f-df5a2b2736bb" width="200" alt="Mich Image 2">
-			</td>
-   		</tr>
-		<tr>
-			<td>
-				🔗 <a href="https://x.com/daveeilish/status/1891821883017855113?s=46">Tweet</a>
-			</td>
-			<td>
-				🔗 <a href="https://x.com/daveeilish/status/1891821883017855113?s=46">Tweet</a>
-			</td>
-			<td>
-				🔗 <a href="https://x.com/daveeilish/status/1891293267586687335?s=46">Tweet</a>
-			</td>
-		</tr>
-	</tbody>
-</table>
+<style>
+  .table-container {
+    width: 100%;
+    overflow-x: auto; /* Enables horizontal scrolling if needed */
+  }
+
+  table {
+    width: 100%;
+    border-collapse: collapse;
+    table-layout: fixed; /* Ensures equal column width */
+    white-space: nowrap; /* Prevents wrapping */
+  }
+
+  th, td {
+    border: 1px solid black;
+    text-align: center;
+    vertical-align: middle;
+    padding: 10px;
+  }
+
+  img {
+    max-width: 100%;
+    height: auto;
+  }
+</style>
+
+<div class="table-container">
+  <table>
+    <tbody>
+      <tr>
+        <th>3D Model</th>
+        <th>MuleEx</th>
+        <th>Mich</th>
+      </tr>
+      <tr>
+        <td>
+          <img src="https://github.com/user-attachments/assets/4a59ee34-cf56-4797-8884-e542240c93f9" width="200" alt="3D Model Image">
+        </td>
+        <td>
+          <img src="https://github.com/user-attachments/assets/45a5aa7b-c8bd-493c-ae53-87b8ae713951" width="200" alt="MuleEx Image">
+        </td>
+        <td>
+          <img src="https://github.com/user-attachments/assets/2454c6dd-3c80-4e5f-b011-71ea0a5f424d" width="200" alt="Mich Image 1">
+          <img src="https://github.com/user-attachments/assets/cb000524-5162-4bfe-9a2f-df5a2b2736bb" width="200" alt="Mich Image 2">
+        </td>
+      </tr>
+      <tr>
+        <td>
+          🔗 <a href="https://x.com/daveeilish/status/1891821883017855113?s=46">Tweet</a>
+        </td>
+        <td>
+          🔗 <a href="https://x.com/daveeilish/status/1891821883017855113?s=46">Tweet</a>
+        </td>
+        <td>
+          🔗 <a href="https://x.com/daveeilish/status/1891293267586687335?s=46">Tweet</a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</div>
+
 
 
 
