@@ -14,32 +14,6 @@ I have always been drawn to the power and potential of open source technology, a
 ---
 ## Animation and UI Challenges
 
-<style>
-  .table-container {
-    width: 100%;
-    overflow-x: auto; /* Enables horizontal scrolling if needed */
-  }
-
-  table {
-    width: 100%;
-    border-collapse: collapse;
-    table-layout: fixed; /* Ensures equal column width */
-    white-space: nowrap; /* Prevents wrapping */
-  }
-
-  th, td {
-    border: 1px solid black;
-    text-align: center;
-    vertical-align: middle;
-    padding: 10px;
-  }
-
-  img {
-    max-width: 100%;
-    height: auto;
-  }
-</style>
-
 <div class="table-container">
   <table>
     <tbody>
