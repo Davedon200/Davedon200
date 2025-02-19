@@ -54,7 +54,7 @@ I have always been drawn to the power and potential of open source technology, a
 Here are some things about me to get you started:
 
 - 🔭 I’m currently working on a bill payment app.
-- 🌱 I’m currently learning Typescript.
+- 🌱 I’m currently learning ReactNative.
 - 👯 I’m looking to collaborate on amazing projects please hit me up.
 - 📫 How to reach me: my social are above...
 - 😄 Pronouns: he/him.
