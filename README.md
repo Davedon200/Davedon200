@@ -10,7 +10,6 @@ I have always been drawn to the power and potential of open source technology, a
 [![](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@michaeldavidreon) [![](https://img.shields.io/badge/twitter-12100E?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/DaveEilish) [![](https://img.shields.io/badge/instagram-12100E?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/tis_h01)
 
 ---
-
 ---
 ## Animation and UI Challenges
 
