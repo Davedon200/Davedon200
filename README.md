@@ -25,7 +25,7 @@ I have always been drawn to the power and potential of open source technology, a
 				<img src="https://github.com/user-attachments/assets/4a59ee34-cf56-4797-8884-e542240c93f9" width="200" alt="3D Model Image">
 			</td>
 			<td>
-				<img src="https://github.com/user-attachments/assets/cb000524-5162-4bfe-9a2f-df5a2b2736bb" width="200" alt="MuleEx Image">
+				<img src="https://github.com/user-attachments/assets/9c9d1705-1ff6-4f82-9206-3d2b2fa08043" width="200" alt="MuleEx Image">
 			</td>
 			<td>
 				<img src="https://github.com/user-attachments/assets/2454c6dd-3c80-4e5f-b011-71ea0a5f424d" width="200" alt="Mich Image 1">
