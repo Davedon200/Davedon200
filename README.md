@@ -50,7 +50,7 @@ I have always been drawn to the power and potential of open source technology, a
 		</tr>
 		<tr>
 			<td>
-				<img src="https://github.com/user-attachments/assets/4a59ee34-cf56-4797-8884-e542240c93f9" width="200" alt="3D Model Image">
+				<img src="https://github.com/user-attachments/assets/df5c6d57-5eb4-4180-ab8e-9a13847be824" width="200" alt="3D Model Image">
 			</td>
 		</tr>
 		<tr>
