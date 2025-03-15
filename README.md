@@ -44,6 +44,22 @@ I have always been drawn to the power and potential of open source technology, a
 			</td>
 		</tr>
 	</tbody>
+	<tbody>
+		<tr>
+			<th>Crypto App</th>
+		</tr>
+		<tr>
+			<td>
+				<img src="https://github.com/user-attachments/assets/4a59ee34-cf56-4797-8884-e542240c93f9" width="200" alt="3D Model Image">
+			</td>
+		</tr>
+		<tr>
+			<td>
+				🔗 <a href="https://x.com/daveeilish/status/1891293267586687335?s=46">Tweet</a>
+			</td>
+		</tr>
+	</tbody>
+		
 </table>
 
 
